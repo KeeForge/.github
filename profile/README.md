@@ -1,13 +1,15 @@
 # KeeForge
 
-**A native iOS password manager for KeePass databases.**
+**A native KeePass-compatible password manager for iPhone, iPad, and Mac.**
 
-KeeForge opens, edits, and syncs KDBX 4.x databases with a fully native Swift/SwiftUI app — no Electron, no wrappers.
+KeeForge is a free, open-source Swift/SwiftUI app family for opening, editing,
+and protecting KDBX 4.x databases — no Electron, no wrappers.
 
-- 🔐 KDBX 4.x support (Argon2, ChaCha20/AES)
-- 🔑 iOS Password AutoFill and passkeys
+- 📱 Native apps for iPhone, iPad, and macOS
+- 🔐 KDBX 4.x support with Argon2, AES, ChaCha20, and Twofish
+- 🔑 Password AutoFill, passkeys, and one-time codes
 - ⏱️ Built-in TOTP codes
-- ☁️ Local and cloud-backed vaults (WebDAV and more)
+- ☁️ Local-first vaults with WebDAV sync and iOS cloud storage
 - 🛡️ Secrets stay encrypted in memory; composite keys live in the Keychain
 
-📱 Main repository: [KeeForge/KeeForge](https://github.com/KeeForge/KeeForge)
+🌐 [keeforge.com](https://keeforge.com) · 📦 [Main repository](https://github.com/KeeForge/KeeForge)
